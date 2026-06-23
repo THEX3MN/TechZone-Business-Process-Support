@@ -34,6 +34,19 @@ The main objectives of this project are to:
 * Support business process improvement through data visualisation
 * Demonstrate how BI tools can improve operational visibility
 
+## Tools and Technologies Used
+
+* Microsoft Excel
+* Power BI
+* Power Query
+* Data Cleaning
+* Data Modelling
+* Data Visualisation
+* Dashboard Development
+* KPI Reporting
+* Retail Analytics
+* Business Process Analysis
+
 ## Dataset
 
 The dataset used in this project contains TechZone retail records, including:
@@ -137,6 +150,26 @@ Instead of relying only on manual branch-level Excel files, TechZone can use a d
 * Track customer satisfaction indicators
 * Improve inventory and sales monitoring
 * Enable data-driven decision-making across branches
+
+## Skills Demonstrated
+
+This project demonstrates practical experience in:
+
+* Business Process Support
+* Business Analysis
+* Retail Data Analysis
+* Microsoft Excel
+* Power BI Dashboard Development
+* Data Cleaning
+* KPI Reporting
+* Data Visualisation
+* Sales Analysis
+* Complaint Analysis
+* Return Rate Analysis
+* Inventory Analysis
+* Operational Reporting
+* Decision Support
+* Process Improvement
 
 ## Learning Outcomes
 
